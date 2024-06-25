@@ -8,7 +8,7 @@ int length = 0,counter,len;
 char temp;
 int main()
 {
-    printf("Enter the string: ");
+    printf("Enter the string  : ");
     scanf("%s",text);
     length = strlen(text);
     length--;
