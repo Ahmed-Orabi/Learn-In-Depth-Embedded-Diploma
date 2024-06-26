@@ -6,7 +6,7 @@ int factorial(int num);
 int main()
 {
     int number;
-    printf("Enter an positive integer: ");
+    printf("Enter a positive integer: ");
     fflush(stdin);fflush(stdout);
     scanf("%i", &number);
 
